@@ -32,7 +32,7 @@ I'm an **Graduate Student🎓 [@KL University](https://www.kluniversity.in)** Me
 - 👯 I’m looking to collaborate on ReactJs Developing projects
 - 💬 Ask me about Java, Javascript, ReactJs
 - 📙 Check out my [Resume](https://www.linkedin.com/in/krishna-pala-269a4712b/)
-- 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
+- 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch and play a lot of Cricket ❤️
 
 
 
