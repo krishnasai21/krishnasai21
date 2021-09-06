@@ -63,7 +63,7 @@ I'm an **Undergrad Student🎓 [@KL University](https://www.kluniversity.in)** G
 
 ### 🚀 Quick Stats
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Defcon27&show_icons=true&line_height=21&theme=react" alt="krishnasa21 Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnasai21&show_icons=true&line_height=21&theme=react" alt="krishnasa21 Github Stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasa21&theme=react&line_height=27&layout=compact" />
 </p>
 
