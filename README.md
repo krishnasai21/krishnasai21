@@ -77,7 +77,7 @@ I'm an **Graduate Student🎓 [@KL University](https://www.kluniversity.in)** Me
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnasai21&repo=Http-proxy-node-replay&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>&ensp;
 <a href="https://github.com/krishnasa21/React-JS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnasai21&repo=React-JS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnasai21&repo=react-k&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 </p>
 </details>
