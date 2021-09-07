@@ -20,7 +20,7 @@ I'm an **Graduate Student🎓 [@KL University](https://www.kluniversity.in)** Me
 
 - 🔭 I’m currently working as DevOps Engineer
 - 🌱 I’m currently learning Flutter
-- ⚡️ I'm currently improving my skills to become a all-rounder in Development
+- ⚡️ Currently improving my skill-set to become a all-rounder
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
