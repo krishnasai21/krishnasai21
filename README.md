@@ -1,6 +1,5 @@
-<h1> main() {
-     print('Hello World!');
-}!, I am <a href="https://github.com/krishnasai21">Krishna Sai Pala </a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
+<h1> 'Hello World!'
+, I am <a href="https://github.com/krishnasai21">Krishna Sai Pala </a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 </h1>
 
 #### 📬 Find me at
