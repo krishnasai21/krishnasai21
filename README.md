@@ -17,21 +17,19 @@ I'm an **Graduate Student🎓 [@KL University](https://www.kluniversity.in)** Me
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working as DevOps Engineer
-- 🌱 I’m currently learning Flutter
-- ⚡️ Currently improving my skill-set to become a all-rounder
+- 🔭 I’m currently working as Automation Analyst
+- 🌱 I’m currently working on AWS Cloud 
+- ⚡️ Currently improving my skill-set 
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 Servers , Backend-Development
+  - 📊 Servers , Backend-Development, Data-Bases
   - 🖼 Software Development
-  - 🛠 ReactJs, Angular 
-  - 🤖 Robotics
-- 📝 I write personal blogs
-- 👯 I’m looking to collaborate on ReactJs Developing projects
-- 💬 Ask me about Java, Javascript, ReactJs
-- 📙 Check out my [Resume](https://www.linkedin.com/in/krishna-pala-269a4712b/)
-- 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch and play a lot of Cricket ❤️
+  - 📝 Write Code by seeing other's code which helps me to focus more on new.
+  - 👯 I’m looking to collaborate on ReactJs Developing projects
+  - 💬 Ask me about Java,Linux, AWS Cloud , ReactJs
+  - 📙 Check out my [Resume]
+  - 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 
 
 
 
