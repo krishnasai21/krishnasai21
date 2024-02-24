@@ -17,7 +17,7 @@ I'm an **Graduate Student🎓 [@KL University](https://www.kluniversity.in)** Me
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working as Automation Analyst
+- 🔭 I’m currently working as Application Engineer
 - 🌱 I’m currently working on AWS Cloud 
 - ⚡️ Currently improving my skill-set 
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
