@@ -10,25 +10,24 @@
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Graduate Student🎓 [@KL University](https://www.kluniversity.in)** Mechanical Engineer. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I'm an **Graduate Student🎓 [@KL University](https://www.kluniversity.in)** Mechanical Engineer. As a Tech Enthusiast 💻 😃, I'm particularly interested in Python, shell scripting, AWS, and their applications in developing innovative and impactful solutions. I love exploring new tech, and I’m always eager to build products that solve real-world problems and bring value to users. <br/><br/>
 
 
 
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working as Application Engineer
-- 🌱 I’m currently working on AWS Cloud 
-- ⚡️ Currently improving my skill-set 
+- 🔭 I’m currently working as Application Engineer at Amazon
+- 🌱 I’m currently working on Linux
+- ⚡️ Currently improving my skill-set
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Servers , Backend-Development, Data-Bases
   - 🖼 Software Development
-  - 📝 Write Code by seeing other's code which helps me to focus more on new.
-  - 👯 I’m looking to collaborate on ReactJs Developing projects
-  - 💬 Ask me about Java,Linux, AWS Cloud , ReactJs
-  - 📙 Check out my [Resume]
+  - 📝 Writing my Code by seeing other's code which helps me to focus more on new.
+  - 👯 I’m looking to collaborate on Developing projects
+  - 💬 Ask me about Java,Linux, AWS Cloud , Python.Shell scripting
   - 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 
 
 
